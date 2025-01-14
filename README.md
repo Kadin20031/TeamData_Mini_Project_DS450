@@ -1,1 +1,5 @@
-# Mini_Project_DS450
+# TeamData
+## Contributors 
+- Kadin McWilliams
+- Jardin Dantzler
+- Brandon Thomas
