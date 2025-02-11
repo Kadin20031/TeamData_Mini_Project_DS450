@@ -8,10 +8,10 @@ Scenario: Your team works for an environmental think tank named 21st Century Env
 
 ## CAPO and Time to Clinical Stability
 Contains all necessary files to properly address the following project goal and scenario.
-Project Goal: To generate a survival analysis curve and develop predic�ve models using Linear/Logis�c
+Project Goal: To generate a survival analysis curve and develop predictive models using Linear/Logistic
 Regression for a real-life data set.
 Scenario: You are a data analyst working for a health research company. One of the researchers in your
-organiza�on is interested in the outcomes for patients hospitalized with Community-Acquired
+organization is interested in the outcomes for patients hospitalized with Community-Acquired
 Pneumonia. The researcher was made aware of a multi-year retrospecive cohort study on CAP
 conducted by a physician in Louisville, Kentucky who specializes in infectious diseases. Startng in 2001,
 this study collected data from hospitals around the world on CAP. You have been provided with a
