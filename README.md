@@ -27,18 +27,18 @@ and continue treatment at home.
 ## Chemical Manufacturing Analysis
 Contains all necessary files to properly address the following project goal and scenario.
 
-Project Goal: To analyze a chemical manufacturing process to determine the most cost-effec�ve method
+Project Goal: To analyze a chemical manufacturing process to determine the most cost-effective method
 for handling liquid waste from a manufacturing process.
 
 Scenario: Based on the information provided in the Overview, develop an approach to this problem
-that will allow the company to determine how much primary product to produce, given the limita�ons
-on the amount of raw material available. Include recommenda�ons as to how the company should
-dispose of liquid waste to sa�sfy the EPA. How many pounds of product K should be produced? How
+that will allow the company to determine how much primary product to produce, given the limitations
+on the amount of raw material available. Include recommendations as to how the company should
+dispose of liquid waste to satisfy the EPA. How many pounds of product K should be produced? How
 many pounds of product M should be produced? How many pounds of liquid waste should be specially
 treated and dumped into the Monongahela River? In your 
 
 The analysis includes the following:
-1. A cost analysis showing the profit contribu�on per pound for the primary product, product K,
+1. A cost analysis showing the profit contribution per pound for the primary product, product K,
 and product M.
 2. The optimal production quantities and waste disposal plan, including the project profit.
 3. A discussion of the value of additional pounds of each raw material.
