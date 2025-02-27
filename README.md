@@ -20,6 +20,11 @@ researcher is interested in building linear and/or logistic models to predict ti
 TCS is a measure used by physicians treating CAP patients to determine when they can be discharged
 and continue treatment at home.
 
+## Chemical Manufacturing Analysis
+Contains all necessary files to properly address the following project goal and scenario.
+Project Goal: To analyze a chemical manufacturing process to determine the most cost-effec�ve method
+for handling liquid waste from a manufacturing process.
+
 ### Group Members 
 - Kadin McWilliams
 - Jardin Dantzler
