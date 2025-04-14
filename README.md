@@ -49,5 +49,4 @@ would the optimal solution change if the product K were eliminated?
 
 ### Group Members 
 - Kadin McWilliams
-- Jardin Dantzler
 - Brandon Thomas
