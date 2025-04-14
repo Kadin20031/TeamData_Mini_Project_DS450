@@ -47,6 +47,16 @@ and product M.
 the recommendation appear reasonable? What is your reaction to the recommendation? How
 would the optimal solution change if the product K were eliminated?
 
+## Writing SQL Queries
+Project Goal:  To write simple to moderately complex SQL queries to extract data from a database using both a query interface (MySQL Workbench) and a Python script.
+
+Scenario:  You work for a small DVD rental company (mail order) [1] . The company has a database called Sakila that contains information about their films, rentals, customers, stores, etc. You have been asked to write a set of queries for the database so they can retrieve data from it.
+
+## Building a Streamlit App
+Project Goal:  To write a small web-based application with Pandas, Sci-Kit Learn and Streamlit for viewing/analyzing the Wine Quality data set from the UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/186/wine+quality)
+
+Scenario:  You have been asked by your company to develop a proof of concept for a data set viewing application so your data analysis group can package data for end users to view.  Your supervisor suggests that you use Streamlit (https://docs.streamlit.io/) which is a library that supports developing simple web applications in Python.
+
 ### Group Members 
 - Kadin McWilliams
 - Brandon Thomas
